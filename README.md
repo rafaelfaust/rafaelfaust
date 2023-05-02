@@ -23,6 +23,6 @@
 <div> 
 
   <a href = "mailto:relfaustrodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/vitor-bisi-vieira-924141145/](https://www.linkedin.com/in/rafaelfaustrodrigues/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/rafaelfaustrodrigues/](https://www.linkedin.com/in/rafaelfaustrodrigues/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
