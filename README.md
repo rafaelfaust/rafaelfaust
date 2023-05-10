@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+is+Rafael+Faust;Font-End+Developer;Full-Stack+Developer" alt="Typing SVG" /></a>
 
  <div>
-   <a href="https://github.com/vtrv123">
+   <a href="https://github.com/rafaelfaust">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelfaust&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfaust&layout=compact&langs_count=6&theme=tokyonight"/>
 
